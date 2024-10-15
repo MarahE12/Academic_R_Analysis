@@ -1,3 +1,8 @@
+##In this analysis, I was provided "blood_pressure.csv " containing prevalence of raised blood pressure from different countries.
+##I was tasked to 'provide a model of the association between Sex, Region and Prevalence of raised blood pressure'.
+
+####
+
 #read dataset in 
 blood <- read.csv('blood_pressure.csv', header = TRUE)
 head(blood)

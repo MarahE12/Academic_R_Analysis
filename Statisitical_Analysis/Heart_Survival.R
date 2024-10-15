@@ -1,3 +1,8 @@
+##In this analysis, I was provided "heart_survival.csv" containing survival rates following a heart attack.
+##I was tasked to perform survival analysis and identify the estimated survival probability of males and females.
+
+####
+
 #install packages
 install.packages("dplyr")
 install.packages("survminer")

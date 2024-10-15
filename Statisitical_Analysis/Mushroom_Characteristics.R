@@ -1,3 +1,8 @@
+##In this analysis, I was provided "mushroom_data.csv" containing information on over 60,000 mushroom species which are both edible and 
+##poisonous. I was tasked to explore whether cap diameter or stem height differ between edible or poisonous mushrooms.
+
+####
+
 #set working directory
 setwd("~/Desktop/UNI/MSc Bioinformatics/R. Studio/Assessment 2")
 #check files within working directory

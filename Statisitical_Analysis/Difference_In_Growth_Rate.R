@@ -1,3 +1,8 @@
+##In this analysis, I was provided a dataset containing growth rate of water flea Daphnia pulex exposed to pollutants cadmium and glyphosate.
+##I was tasked to explore the question: "Is there a difference in the growth rate between the groups?"
+
+####
+
 #set working directory
 setwd("~/Desktop/UNI/MSc Bioinformatics/R. Studio/Assessment 2")
 #check files within working directory

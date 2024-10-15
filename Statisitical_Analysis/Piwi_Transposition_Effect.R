@@ -1,3 +1,8 @@
+##In this analysis, I was provided a "piwi.txt" containing results of effect of a mutation in the piwi gene on gypsy transposon activity 
+##in Drosophila subobscura. I was tasked to explore if there is evidence that the piwi mutant affects transposition in this dataset.
+
+####
+
 #set working directory
 setwd("~/Desktop/UNI/MSc Bioinformatics/R. Studio/Assessment 2")
 #check files within working directory
